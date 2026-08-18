@@ -387,8 +387,6 @@
         tableId: CargoGiftsTable
       - !type:NestedSelector
         tableId: CalmPestEventsTable
-      - !type:NestedSelector
-        tableId: SpicyPestEventsTable
 
 - type: entityTable
   id: DynamicGameRulesTable
@@ -402,8 +400,6 @@
       tableId: CargoGiftsTable
     - !type:NestedSelector
       tableId: CalmPestEventsTable
-    - !type:NestedSelector
-      tableId: SpicyPestEventsTable
 
 - type: entityTable
   id: SpaceTrafficControlTable
