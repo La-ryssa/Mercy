@@ -1,10 +1,4 @@
 ﻿- type: construction
-  parent: BaseItemMisc
-  id: PlushieGhostRevenant
-  graph: PlushieGhostRevenant
-  targetNode: plushie
-
-- type: construction
   parent: BaseClothing
   id: ClothingOuterSuitIan
   graph: ClothingOuterSuitIan
