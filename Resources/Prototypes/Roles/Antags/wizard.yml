@@ -18,7 +18,6 @@
 - type: antagSpecifier
   parent: RestrictedAntag
   id: Wizard
-  spawnerPrototype: SpawnPointGhostWizard
   startingGear: WizardBlueGear
   roleLoadout:
   - RoleSurvivalExtendedAntag
